@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 CS Student | 💻 Python, C++, C | 🤖 AI & Automation | 📈 Algo Trading | ⚙️ Building Real-World Projects
+🚀 CS Student | 💻 Python, C++, C | 📈 Trading | ⚙️ Building Real-World Projects
 
 
 ## 🌐 Socials:
